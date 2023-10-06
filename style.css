@@ -12,6 +12,9 @@ body{
     align-items: center;
     background-color: #020d45;
     background: linear-gradient(90deg,#5936b4 0%,#362a84 100%);
+    background-image: url("https://t3.ftcdn.net/jpg/02/16/47/84/360_F_216478440_EeaM0VLz797fdhj6SexMZoRUIQvy21N7.jpg");
+    background-size:cover;
+    position: relative;
     color: #222;
     font-size: 1rem;
 }
